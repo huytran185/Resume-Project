@@ -9,5 +9,5 @@ Technology:
 . JavaScript
 . Animate on Scroll Library
 
-Link:
+Link: https://huy-tran-resume.herokuapp.com/
 Github: https://github.com/huytran185/Resume-Project
